@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+.private/
+.venv/
+build/
+.build/
+__pycache__/
+*.pyc
+*.log
+video/frames/
+video/qa/
